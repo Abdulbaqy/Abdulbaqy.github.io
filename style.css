@@ -1,0 +1,31 @@
+.navbar {
+  background-color: lightslategrey;
+}
+
+#about {
+  margin-top: 200px;
+}
+
+#certification {
+  padding-top: 200px;
+  margin-bottom: 50px;
+}
+
+.card {
+  background-color: midnightblue;
+  color: white;
+}
+
+#contact {
+  padding-top: 300px;
+  margin-bottom: 50px;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+ion-icon {
+  font-size: 40px;
+  color: midnightblue;
+}
